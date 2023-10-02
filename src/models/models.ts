@@ -11,8 +11,9 @@ export interface Product {
   stock: number;
   brand: string;
   category: string;
-  thumbnail: string;
   images: string[];
+  thumbnail: string;
+  
 }
 export interface Products {
   products: Product[];
