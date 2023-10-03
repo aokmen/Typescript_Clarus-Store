@@ -12,7 +12,7 @@ function App() {
     <div className="bg-gray-400 min-h-screen">
       <Provider store={store}>
         <BrowserRouter>
-          <NavBar />
+          <NavBar/>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/favorites" element={<FavoritesPage />} />
