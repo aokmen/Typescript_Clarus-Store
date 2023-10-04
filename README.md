@@ -2,11 +2,8 @@
 # My Store
 ## Description
 
-Project aims to create a Clarus Store.
+Project aims to create a Store.
 
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
 ## Project Skeleton
 
