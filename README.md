@@ -54,6 +54,7 @@ Build a Milestone Blog App using ReactJS.
 - JS
 - TS
 - React
+-Typescript
 
 ### At the end of the project;
 
